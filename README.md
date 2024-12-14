@@ -93,8 +93,8 @@ Sketch Based Image Retrieval (SBIR) allows users to  to give input in one of the
 
 - **Backend**:
   - Python
-  - Flask/Django (or any other framework)
-  - OpenCV, TensorFlow, or PyTorch for image processing and model handling
+  - Flask
+  - Caffe TensorFlow for image processing and model handling
 
 - **Frontend**:
   - Angular 
